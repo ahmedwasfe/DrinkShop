@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Drink Shop</string>
+
+
+    <string name="FACEBOOK_APP_ID">942664239434403</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">5c692da85f05e09a8d64a9e1aca8b851</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_stores_maps">Map</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_new"
+        android:title="New"
+        android:icon="@drawable/ic_new"/>
+
+    <item android:id="@+id/nav_cancel"
+        android:title="Cancel"
+        android:icon="@drawable/ic_cancel"/>
+
+    <item android:id="@+id/nav_processing"
+        android:title="Processing"
+        android:icon="@drawable/ic_room_service"/>
+
+    <item android:id="@+id/nav_shipping"
+        android:title="Shipping"
+        android:icon="@drawable/ic_local_shipping"/>
+
+    <item android:id="@+id/nav_shipped"
+        android:title="Shipped"
+        android:icon="@drawable/ic_done"/>
+
+</menu>

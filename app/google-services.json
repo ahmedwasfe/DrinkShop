@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "project_number": "780851242590",
+    "firebase_url": "https://arab-discount-market.firebaseio.com",
+    "project_id": "arab-discount-market",
+    "storage_bucket": "arab-discount-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780851242590:android:8decec577bb80547",
+        "android_client_info": {
+          "package_name": "com.ahmet.arabdiscountmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780851242590-28drtf8947ictrm0iq96jf26b5eebbot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmet.arabdiscountmarket",
+            "certificate_hash": "2bb2b0ebde58be524b4f6e77ad2fbb7becd179af"
+          }
+        },
+        {
+          "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBa6T0MetG1wNDjltEl5vKEYVyV0V7LI"
+        },
+        {
+          "current_key": "AIzaSyBeyyQA5JcIQ2pdZaJjkSSn93Wq8B16tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780851242590:android:29814ac13b91c7e5f176cf",
+        "android_client_info": {
+          "package_name": "com.ahmet.drinkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780851242590-6stkrphqnbokfo9er7jlc53sr3s4q65i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmet.drinkshop",
+            "certificate_hash": "4324ad0f12401652f530323085992937f7305dd2"
+          }
+        },
+        {
+          "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBa6T0MetG1wNDjltEl5vKEYVyV0V7LI"
+        },
+        {
+          "current_key": "AIzaSyBeyyQA5JcIQ2pdZaJjkSSn93Wq8B16tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780851242590:android:dc1634c2f9aa4227",
+        "android_client_info": {
+          "package_name": "com.ahmet.orderfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBa6T0MetG1wNDjltEl5vKEYVyV0V7LI"
+        },
+        {
+          "current_key": "AIzaSyBeyyQA5JcIQ2pdZaJjkSSn93Wq8B16tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780851242590:android:279333bc50ed86ee",
+        "android_client_info": {
+          "package_name": "com.ahmet.orderfoodserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBa6T0MetG1wNDjltEl5vKEYVyV0V7LI"
+        },
+        {
+          "current_key": "AIzaSyBeyyQA5JcIQ2pdZaJjkSSn93Wq8B16tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780851242590:android:c14b46622ccb8bb4f176cf",
+        "android_client_info": {
+          "package_name": "com.cappostudio.controlpanelkoora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780851242590-n3vba3nstnkrudo0cv0fuoo8c3hv4vl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cappostudio.controlpanelkoora",
+            "certificate_hash": "2bb2b0ebde58be524b4f6e77ad2fbb7becd179af"
+          }
+        },
+        {
+          "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBa6T0MetG1wNDjltEl5vKEYVyV0V7LI"
+        },
+        {
+          "current_key": "AIzaSyBeyyQA5JcIQ2pdZaJjkSSn93Wq8B16tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780851242590:android:55d2a7fa805cfe76f176cf",
+        "android_client_info": {
+          "package_name": "com.cappostudio.livenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780851242590-7cquiij799sfhrogn7kk97agogdk7n7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cappostudio.livenow",
+            "certificate_hash": "2bb2b0ebde58be524b4f6e77ad2fbb7becd179af"
+          }
+        },
+        {
+          "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBa6T0MetG1wNDjltEl5vKEYVyV0V7LI"
+        },
+        {
+          "current_key": "AIzaSyBeyyQA5JcIQ2pdZaJjkSSn93Wq8B16tu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780851242590-d2k1j0u1ah4kua0r37hqosobnrcokn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
